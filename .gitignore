@@ -1,0 +1,10 @@
+# ===== 运行时自动生成的触发文件 =====
+eeg_trigger.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+
+# ===== IDE =====
+.idea/
+.vscode/

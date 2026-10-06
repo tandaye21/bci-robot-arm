@@ -1,0 +1,7 @@
+opencv-python
+numpy
+ultralytics
+scikit-learn
+requests
+bleak
+PyQt5
